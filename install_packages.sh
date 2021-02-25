@@ -4,3 +4,4 @@ conda install python flask
 conda install psycopg2
 conda install flask-sqlalchemy
 pip install flask-migrate
+conda install gunicorn
