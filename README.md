@@ -14,5 +14,5 @@ flask db upgrade
 
 ## Reference
 
-<https://realpython.com/flask-by-example-part-1-project-setup/>
-<https://www.askpython.com/python-modules/flask/flask-postgresql>
+- <https://realpython.com/flask-by-example-part-1-project-setup/>
+- <https://www.askpython.com/python-modules/flask/flask-postgresql>
